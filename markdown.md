@@ -1,4 +1,5 @@
 # 表
+###### ひょう
 | |1|2|3|4|5|
 -|-|-|-|-|-
 |a| | | | | |
@@ -6,6 +7,8 @@
 |c| | | | | |
 |d| | | | | |
 |e| | | | | |
+
+  <br>
 
 - [ ] aaaaa
 - [x] bbbbb
@@ -15,6 +18,8 @@
 [_**~~ここをタップ~~**_](https://www.google.com/?gws_rd=ssl&safe=active)
 
 ># **ああああああああああああああああああああああああああ**
+>># ***aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa***
+>>># **aaaaaaaaaaaaaaaaaaaaaaaaaaaa**
 
 ```
 コピーしよう！
@@ -26,3 +31,10 @@
 
 ここは~~読んではいけない~~です。。。
 
+<font color="Blue">青色のテキスト</font>
+
+***
+注目[^1]
+[^1]:あああああああああああ
+
+ |
